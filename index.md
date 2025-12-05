@@ -12,3 +12,5 @@
 
 I added an example of each of the various style headers which are dictated by the amount of '#'.
 Ranging from 1-6 followed by a space and the actual title.
+
+![Image of BSU](https://d2jyir0m79gs60.cloudfront.net/college/logos/Boise_State_University.jpg)
