@@ -22,3 +22,6 @@ public class Example {
   }
 }
 ```
+- [x] First List Item (Completed)
+- [ ] Second List Item
+- [ ] Third List Item
